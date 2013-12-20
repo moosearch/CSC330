@@ -1,0 +1,13 @@
+1) Prolog (Logic Programming Language): 
+http://www.learnprolognow.org/
+
+2) Pascal (Imperative): 
+http://taoyue.com/tutorials/pascal/contents.html
+
+
+
+3) Haskell (Functional): 
+http://www.haskell.org/tutorial/
+
+4) More Pascal book
+http://pascal-central.com/ppl/index.html

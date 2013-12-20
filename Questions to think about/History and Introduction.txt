@@ -1,0 +1,39 @@
+
+Programming Languages: History and Introduction
+(last modified: 14 September 2013)
+
+    What are the three foundations of programming languages?
+    What are the foundations of concurrent programming languages?
+    What is a model of computation?
+    What is a computation step in each of the foundational model of computation?
+    What are the distinguished features of each of the following programming language?
+        FORTRAN
+        ALGOL 60
+        LISP
+        ISWIM or LISPKIT
+        ML or Haskell
+        PROLOG
+        Pascal
+        Simula 67 and Smalltalk 80
+        Concurrent Pascal
+        Ada or OCCAM
+        GO
+    Which language introduces the following concepts?
+        recursion
+        types
+        dynamic scope and binding
+        call-by-name
+        classes
+        program as data
+        pattern matching
+        unification
+        monitors (supports Condition variables)
+        co-routines
+        tasks/threads
+        message passing communication over channels
+    How is the syntax of a programming language typically defined?
+    How about semantics and pragmatics?
+    How does Backus Naur (Normal) Formal (BNF) differ from Context Free Grammar (CFG)?
+    What is the difference between abstract syntax and concrete syntax?
+    Is the "rail diagram" (as used in Pascal definition) the same as BNF?
+

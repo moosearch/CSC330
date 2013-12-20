@@ -1,0 +1,14 @@
+ Lecture Topics
+
+    Introduction
+    History of Programming Languages
+    Syntax and Parsing
+    Names, Types and Type Inference
+    Lambda Calculus
+    Functional Programming with Lists
+    Higher Order Functions and Lazy Evaluation
+    Logic Programming
+    Non-determinism and Backtracking
+    Programming with Lists
+    Concurrent Programming 				<--- Never covered this
+    Shared Memory Model, Path Expressions, Petri Nets 	<--- Never covered this

@@ -1,0 +1,28 @@
+
+Logic Programming Related Questions:
+
+(last modified: 6 November 2006)
+
+While you are reading the programming language Prolog and its related books, make sure you consider the following questions as well:
+
+    What is a clause?
+    What type of clauses that Prolog uses?
+    What are the declaractive versus procedural readings of a Prolog clause?
+    How does Prolog deduce its answers?
+    What is a logical inference step?
+    What is a query?
+    What is the logical reading of a query?
+    What is unification?
+    What is the relation when it is defined by multiple clauses in Prolog?
+    Does the ordering of clauses in a Prolog program matter?
+    How about the ordering of conjuctive goals?
+    How does Prolog's pattern matching work?
+    What is a logical variable?
+    What are the existential versus universal quantified logical variables?
+    Consider the problem of appending two lists, what are the main differences between Haskell and Prolog version?
+    What is non-determinism?
+    How does Prolog support non-determinism?
+    Prolog is a relational programming language. Is SQL a relational programming language?
+    If not, why not?
+
+

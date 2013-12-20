@@ -1,0 +1,17 @@
+Imperative Programming
+(last modified: 25 September 2013)
+
+    Q. What is a type?
+    Q. What does a type-checker do?
+    Q. How does Pascal define enumerated type?
+    Q. How does Pascal deal with type equivalence?
+    Q. What does subtype mean in enumerated types? e.g., range, membership, etc.
+    Q. How does Pascal deal with sets?
+    Q. What are the parameter passing modes supported in Pascal?
+    Both C and Java use "call-by-value" mode. What are the pros and cons of Pascal's parameter modes?
+    Q. Does Pascal support "overloading"?
+    How is the scoping rule in Pascal different from C?
+    What is an activation record? What is a static chain? What is a dynamic chain?
+    Q. How are types constructed in general? e.g., subset, product, sum, function, sequence, index, etc.
+    Q. What is type equivalence? What is name vs structural equivalence?
+    Q. What is type inference?

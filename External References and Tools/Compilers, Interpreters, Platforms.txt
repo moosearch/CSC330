@@ -1,0 +1,27 @@
+1) Haskell Platform (Interpreter):
+http://www.haskell.org/haskellwiki/Haskell
+
+2) Hugs (Haskell 98 standard) interpreter (assuming it is):
+http://www.haskell.org/hugs/
+Note: This is unmaintained so expect very little help compared to standard haskell platform
+
+3) Standard ML of New Jersey (Functional programming language) platform:
+http://www.smlnj.org//index.html
+
+4) Prolog interpreter:
+http://www.swi-prolog.org/
+
+5) GNU Prolog compiler (yes, COMPILER, not interpreter):
+http://www.gprolog.org/
+
+6) Kent Retargetable Occam Compiler (KRoC) (concurrent)
+http://wotug.org/kroc/
+
+7) erlang compiler (concurrent)
+http://www.erlang.org/download.html
+
+8) Go language (concurrent) (google)
+http://golang.org/
+
+9) Professional compiler for the Pascal Programming Language: 
+http://www.freepascal.org/

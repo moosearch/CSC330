@@ -1,0 +1,33 @@
+
+Functional Programming Related Questions:
+
+(last modified: 3 October 2013)
+
+While you are reading the programming language Haskell and its related tutorials, make sure you consider the following questions as well:
+
+    What is the notation (or syntax) of Lambda expressions in Haskell?
+    Could you enter "pure" Lambda expressions in Haskell, e.g., lambda f.lambda x. f ( f  x)?
+    What is the result of a pure Lambda expression?
+    What is the evaluation order of Lambda expressions in Haskell, i.e., call-by-value, call-by-name?
+    Can you codify numerals, successor function, boolean expressions as pure Lambda expressions in Haskell?
+    Try it and convince yourself that it is indeed possible.
+    How does Lambda Calculus codify recursion?
+    Again, can you test this "codification" of recursion in Haskell?
+    Q. How does Haskell deal with types, e.g., sequence type, product type?
+    Does it support polymorphic types?
+    How about type inference, i.e., can it infer types from the input expressions?
+    Q. Is Haskell a strongly-type programming langauge?
+    In other words, can one by-passs its type system using type casting or coercion?
+    How does Haskell compute with numbers, e.g., integers, floating numbers?
+    Try some expressions and functions that deal with numbers.
+    What is a list in Haskell?
+    Is a list homogeneous, i.e., all elements are of the same type? Or can a list be heterogenous, i.e., mixed element types?
+    How does Haskll deal with infinite lists, i.e., lists with infinite number of elements?
+    Does Haskell support pattern matching?
+    Does Haskell support lazy evaluation?
+    What is list comprehension?
+    Does Haskell support higher order functions, i.e., functions that accept functions as arguments and return functions as results?
+    What is "currying"? Can you convert a non-curried function into a curried function in Haskell?
+    What are "combinators"? (Haskell is the name of the logician Haskell Curry, who invented Combinatory Logic.)
+
+

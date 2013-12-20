@@ -1,0 +1,5 @@
+1) Interactive tutorials on Petri nets
+http://www.informatik.uni-hamburg.de/TGI/PetriNets/introductions/aalst/
+
+2) Lambda Calculus tutorial
+https://files.nyu.edu/cb125/public/Lambda/
